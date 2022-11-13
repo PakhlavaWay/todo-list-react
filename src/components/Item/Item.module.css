@@ -1,0 +1,16 @@
+.item {
+  border: 2px solid silver;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  border-radius: 6px;
+  margin: 10px 0;
+}
+
+.date, .task {
+  text-align: start;
+}
+
+
+

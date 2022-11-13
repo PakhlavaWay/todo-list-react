@@ -1,0 +1,32 @@
+*, 
+*::before, 
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+.App {
+  text-align: center;
+  width: 80%;
+  border: 2px solid silver;
+  margin: 0 auto;
+  min-height: 100vh;
+  border-radius: 6px;
+  padding: 20px;
+}
+
+
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
